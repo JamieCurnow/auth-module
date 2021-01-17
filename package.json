@@ -81,7 +81,7 @@
     "nuxt": "^2.14.12",
     "playwright": "^1.7.1",
     "prettier": "latest",
-    "siroc": "^0.6.0",
+    "siroc": "^0.6.2",
     "standard-version": "latest",
     "ts-jest": "latest",
     "ts-loader": "^8.0.14",
